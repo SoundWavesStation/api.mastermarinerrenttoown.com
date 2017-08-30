@@ -1,0 +1,11 @@
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\bin\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.deps.json
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\bin\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.runtimeconfig.json
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\bin\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.runtimeconfig.dev.json
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\bin\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.dll
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\bin\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.pdb
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\obj\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\obj\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\obj\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.AssemblyInfoInputs.cache
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\obj\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.AssemblyInfo.cs
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\obj\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.dll
+C:\Users\Kyamc\Aspnet_Core\api.mastermarinerrenttoown.com\src\MasterMarinerCabRentToOwn.Web\obj\Debug\netcoreapp2.0\MasterMarinerCabRentToOwn.Web.pdb
