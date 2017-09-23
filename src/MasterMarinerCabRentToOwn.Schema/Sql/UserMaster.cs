@@ -8,7 +8,10 @@ namespace MasterMarinerCabRentToOwn.Schema.Sql
     {
         public UserMaster()
         {
-
+            AddressMaster = new HashSet<AddressMaster>();
+            AddressMasterDetails = new HashSet<AddressMasterDetails>();
+            TransactionMaster = new HashSet<TransactionMaster>();
+            CabMaster = new HashSet<CabMaster>();
         }
         public int Umt_UserCode { get; set; }
         public string Umt_FristName { get; set; }
@@ -30,6 +33,15 @@ namespace MasterMarinerCabRentToOwn.Schema.Sql
         public int UpdatedBy { get; set; }
         public bool IsDeleted { get; set; }
         public DateTime ludatetime { get; set; }
+
+        public ICollection<AddressMaster> AddressMaster { get; set; }
+        public ICollection<AddressMasterDetails> AddressMasterDetails { get; set; }
+        public ICollection<TransactionMaster> TransactionMaster { get; set; }
+        public ICollection<CabMaster> CabMaster { get; set; }
+
+
+
+
 
     }
 }

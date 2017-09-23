@@ -12,6 +12,7 @@ namespace MasterMarinerCabRentToOwn.Schema.Sql
         }
         public int Addmt_AddressDetailCode { get; set; }
         public int Addmt_AddressCode { get; set; }
+        public AddressMaster AddressMaster { get; set; }
         public string Addmt_Country { get; set; }
         public int Addmt_ZipCode { get; set; }
         public string Addmt_CompleteAddress { get; set; }
@@ -21,6 +22,7 @@ namespace MasterMarinerCabRentToOwn.Schema.Sql
         public DateTime Addmt_Date { get; set; }
         public bool IsDeleted { get; set; }
         public int UpdatedBy { get; set; }
+        public UserMaster UserMaster { get; set; }
         public DateTime ludatetime { get; set; }
     }
 }
